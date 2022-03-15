@@ -1,0 +1,76 @@
+#Brn {
+  z-index: -1;
+  width: 100%;
+  top: 0;
+  position: fixed;
+}
+a {
+  opacity: 80%;
+  color: aliceblue;
+}
+
+h1,
+th {
+  color: aliceblue;
+  text-align: center;
+}
+#submit {
+  color: aliceblue;
+  font-weight: bold;
+}
+.pisinfo {
+  position: absolute;
+}
+.li {
+  background-color: rgb(226, 230, 14);
+  color: #333;
+  padding: 5px;
+  width: 300px;
+  border-radius: 50px;
+  margin: auto;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.b {
+  text-decoration: none;
+  background-color: rgb(255, 217, 0);
+  color: #333;
+
+ padding:0px 5px 0px 5px;
+  border-radius: 50px;
+margin: auto;
+  font-size: 15px;
+}
+.d {
+position: fixed;
+width: 75px;
+z-index: 10;
+top: 30vh;
+right:  5px;
+text-align: center;
+
+
+}
+.e {
+position: fixed;
+width: 75px;
+  z-index: 10;
+ 
+top: 50vh;
+right:  5px;
+text-align: center;
+
+
+}
+.f {
+position: fixed;
+width: 75px;
+  z-index: 10;
+ 
+top: 70vh;
+right:  5px;
+text-align: center;
+
+
+}
